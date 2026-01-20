@@ -6,7 +6,5 @@ public class Main {
         Motorcycle m2 = new Motorcycle("blue");
         System.out.println(m2.getColor());
     }
-    }
 
-}
 }
