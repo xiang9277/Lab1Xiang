@@ -1,6 +1,16 @@
+/**
+ * Project: Lab 1 Motorcycle
+ * Purpose Details: Class work
+ * Course: IST 242
+ * Author: Zizhou Xiang
+ * Date Developed: 2026-01-20
+ * Last Date Changed: 2026-01-25
+ * Revision: 1.0
+ */
 public class Motorcycle {
 
     private String color;
+
     private String brand;
     private int year;
     private Engine engine;
